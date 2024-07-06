@@ -28,6 +28,6 @@ function newFeatureB() {
 
 function newFeatureC() {
     console.log("new feature A");
-    console.log("new feature B");
+    console.log("new feature D");
     console.log("new feature C");
 }
