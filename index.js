@@ -1,5 +1,5 @@
 const age = 24;
-
+const dob = 7;
 
 
 function sayHello() {
