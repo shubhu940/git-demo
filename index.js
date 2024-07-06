@@ -20,3 +20,8 @@ function newFeature() {
     console.log("Hey I am a new feature A");
     console.log("Hey I am a new feature B");
 }
+
+function newFeatureB() {
+    console.log("new feature A");
+    console.log("new feature B");
+}
