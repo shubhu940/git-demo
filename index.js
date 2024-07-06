@@ -17,5 +17,6 @@ function newFn() {
 }
 
 function newFeature() {
-    console.log("Hey I am a new feature");
+    console.log("Hey I am a new feature A");
+    console.log("Hey I am a new feature B");
 }
